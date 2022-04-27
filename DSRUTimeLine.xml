@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timeline>
+  <name>絶 竜詩戦争</name>
+  <rev>rev1</rev>
+  <description>
+    絶竜詩戦争のタイムラインです。
+  </description>
+  <author>petipeti3</author>
+  <zone>3C8</zone>
+  <locale>JA</locale>
+  <start>0039::戦闘開始！</start>
+    <a time="5" text="ホリエストホーリーの構え" />
+    <a time="10" text="ホリエストホーリー発動" />
+    <a time="17" text="エンプティディメンションの構え" />
+    <a time="22" text="ヘヴンブレイズ詠唱開始" />
+    <a time="23" text="ホーリーシールドバッシュの構え" />
+    <a time="23" text="エンプティディメンション" />
+    <a time="25" text="ホーリーブレードダンス" />
+    <a time="28" text="ヘヴンズブレイズ発動" />
+    <a time="38" text="ハイパーディメンション" />
+    <a time="44" text="調査中" />
+    <a time="56" text="ホリエストホーリーの構え" />
+    <a time="61" text="ホリエストホーリー発動" />
+    <a time="71" text="ホリエストブレッシングを止める" />
+    <a time="88" text="ヘヴンフレイム" />
+    <a time="89" text="ホリエストブレッシングを止める" />
+    <a time="97" text="ホリエストホーリーの構え" />
+    <a time="98" text="分岐" />
+    <a time="102" text="ホリエストホーリー発動" />
+    <a time="104" text="分岐発動" />
+    <a time="108" text="ホリエストブレッシングを止める" />
+    <a time="117" text="ホリエストホーリーの構え" />
+    <a time="122" text="ホリエストホーリー発動" />
+</timeline>
